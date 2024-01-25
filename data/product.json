@@ -1,0 +1,69 @@
+[
+    {
+        "name" : "Olive Oil Carrot Pickle",
+        "price" : "299",
+        "images" : "http://localhost:3000/static/media/Product%20Carrot.8073d62cdc7c006bd39c.png"
+    },
+
+    {
+        "name" : "Olive Oil Garlic Pickle",
+        "price" : "395",
+        "images" : "http://localhost:3000/static/media/Product%20Garlic.f751dfb26528bcc4b160.png"
+    },
+
+    {
+        "name" : "Olive Oil Green Chili Pickle",
+        "price" : "366",
+        "images" : "http://localhost:3000/static/media/Product%20Green%20Chili.e3c36f6f2fbc21f4e92b.png"
+    },
+
+    {
+        "name" : "Olive Oil LIME Pickle",
+        "price" : "288",
+        "images" : "http://localhost:3000/static/media/Product%20LIME.42faf83afd2f1dc61031.png"
+    },
+
+    {
+        "name" : "Shredded Mango Relish",
+        "price" : "259",
+        "images" :"http://localhost:3000/static/media/Product%20Mango%20(2).f6fa40d4176c8869be93.png"
+    },
+
+    {
+        "name" : "Olive Oil Mango Pickle",
+        "price" : "367",
+        "images" :"http://localhost:3000/static/media/Product%20MANGO.72e16f676e2532d44fe8.png"
+    },
+
+    {
+        "name" : "Olive Oil Mint Pickle",
+        "price" : "299",
+        "images" :"http://localhost:3000/static/media/Product%20Mint.5bee881a17100449cec3.png"
+    },
+
+    {
+        "name" : "Olive Oil Mixed Pickle",
+        "price" : "366",
+        "images" : "http://localhost:3000/static/media/Product%20Mixed.a9e542320b6e1fd84420.png"
+    },
+
+    {
+        "name" : "Olive Oil Red Chili Pickle",
+        "price" : "299",
+        "images" :"http://localhost:3000/static/media/Product%20Red%20Chili.ee7ba3f852b788eda0a4.png"
+    },
+
+    {
+        "name" : "Chutney In Olive Oil Schezwan Pickle",
+        "price" : "279",
+        "images" :"http://localhost:3000/static/media/Product%20Sichezwan.9370e808f738d15d2371.png"
+    },
+
+    {
+        "name" : "Chutney In Olive Oil Garlic Pickle",
+        "price" : "339",
+        "images" :"http://localhost:3000/static/media/Product%20Spicy%20Garlic.b7c0c35080400f830885.png"
+    }
+
+
+]
